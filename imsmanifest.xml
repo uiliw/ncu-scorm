@@ -9,8 +9,8 @@
 			</item>
 			<!-- MODULO 01 -->
 			<item identifier="NCU_INTRODUCAO" identifierref="introducao_empreendedorismo">
-			<title>Módulo 01 - Introdução ao Empreendedorismo</title>
-			<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+				<title>Módulo 01 - Introdução ao Empreendedorismo</title>
+				<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
 			<item identifier="NCU_M1_A1" identifierref="a_empresa">
 				<title>Aula 01 - A empresa</title>
 				<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
@@ -75,9 +75,257 @@
 					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
 				</item>
 			</item>
+			</item>
+			<!-- MODULO 02 -->
+			<item identifier="NCU_MODULO_02" identifierref="planejando_negocio">
+				<title>Módulo 02 - Planejando o Negócio</title>
+				<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+				<item identifier="NCU_M2_A1" identifierref="a_questao_do_planejamento">
+					<title>Aula 01 - A questão do Planejamento</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+				</item>
+				<item identifier="NCU_M2_A2" identifierref="a_ideia_de_negocio">
+					<title>Aula 02 - A ideia de negócio</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M2_A2_T1" identifierref="identificando_uma_boa_ideia_de_negocio">
+						<title>Identificando uma boa ideia de negócio</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A2_T2" identifierref="fichas_de_ideias_de_negocios">
+						<title>Fichas de ideias de negócio</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M2_A3" identifierref="modelos_de_negocios">
+					<title>Aula 03 - Modelo de negócio, método canvas e as start ups</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M2_A3_T1" identifierref="preenchimento_do_quadro_do_metodo_de_canvas">
+						<title>Preenchimento do quadro do método de canvas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A3_T2" identifierref="teste_com_prototipo">
+						<title>Teste com protótipo</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A3_T3" identifierref="as_start_ups">
+						<title>As Start ups</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A3_T4" identifierref="planejamento_abertura_start_up">
+						<title>O planejamento e abertura de uma start up</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A3_T5" identifierref="referencias_bibliograficas_2_3_5">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M2_A4" identifierref="plano_de_negocio">
+					<title>Aula 04 - Plano de negócio</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M2_A4_T1" identifierref="variacoes_palno_de_negocios">
+						<title>Variações do plano de negócio</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A4_T2" identifierref="onde_conseguir_capital_para_comecar_seu_negocio">
+						<title>Onde conseguir capital para começar seu negócio</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A4_T3" identifierref="referencias_bibliograficas_2_4_3">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M2_A5" identifierref="a_estrutura_do_plano_de_negocios">
+					<title>Aula 05 - A estrutura do plano de negócios</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M2_A5_T1" identifierref="referencias_bibliograficas_2_5_1">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M2_A6" identifierref="elaboracao_do_plano_de_negocio">
+					<title>Aula 06 - Elaboração do plano de negócio</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M2_A6_T1" identifierref="formalizando_o_negocio">
+						<title>Formalizando o negócio</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M2_A6_T2" identifierref="referencias_bibliograficas_2_6_1">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+			</item>
+			<!-- MODULO 03 -->
+			<item identifier="NCU_MODULO_03" identifierref="gestao_organizacional">
+				<title>Módulo 03 - Gestão organizacional</title>
+				<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+				<item identifier="NCU_M3_A1" identifierref="principais_elementos_da_gestao_organizacional">
+					<title>Aula 01 - Principais elementos da gestão organizacional</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M3_A1_T1" identifierref="fluxo_de_caixa_e_outros_controles_financeiros">
+						<title>Fluxo de caixa e outros controles financeiros</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T2" identifierref="custos_despesas_e_investimentos">
+						<title>Custos, despesas e investimentos</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T3" identifierref="vendas_e_satisfacao_do_cliente">
+						<title>Vendas e satisfação do cliente</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T4" identifierref="logistica_e_operacoes">
+						<title>Logística e operações</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T5" identifierref="fornecedores_e_compras">
+						<title>Fornecedores e compras</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T6" identifierref="estoques">
+						<title>Estoques</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T7" identifierref="colaboradores">
+						<title>Colaboradores</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T8" identifierref="estrategia_e_relacionamento_com_outros_publicos_externos">
+						<title>Estratégia e relacionamento com outros públicos externos</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T9" identifierref="principais_elementos_da_gestao_organizacional">
+						<title>Principais elementos da gestão organizacional</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A1_T10" identifierref="referencias_bibliograficas_3_1_10">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M3_A2" identifierref="principais_controles_administrativos_da_empresa">
+					<title>Aula 02 - Principais controles administrativos da empresa</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M3_A2_T1" identifierref="sistemas_tecnologicos_de_apoio_aos_controles">
+						<title>Sistemas tecnológicos de apoio aos controles administrativos-financeiros</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A2_T2" identifierref="principais_controles_administrativos">
+						<title>Principais controles administrativos</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A2_T3" identifierref="controle_das_vendas">
+						<title>Controle das vendas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A2_T4" identifierref="controle_das_compras">
+						<title>Controle das compras</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A2_T5" identifierref="controle_de_estoques">
+						<title>Controle de estoques</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M3_A3" identifierref="principais_controles_financeiros_da_empresa">
+					<title>Aula 03 - Principais controles financeiros da empresa</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M3_A3_T1" identifierref="o_fluxo_de_caixa">
+						<title>O fluxo de caixa</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T2" identifierref="o_controle_de_caixa">
+						<title>O controle de caixa</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T3" identifierref="o_controle_de_bancos">
+						<title>O controle de bancos</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T4" identifierref="controle_de_contas_a_receber_e_a_pagar">
+						<title>Controle de contas a receber e a pagar</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T5" identifierref="custos_e_despesas">
+						<title>Custos e despesas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T6" identifierref="a_composicao_final_do_fluxo_de_caixa">
+						<title>A composição final do fluxo de caixa</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T7" identifierref="formacao_de_precos_de_vendas">
+						<title>Formação de preços de venda</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T8" identifierref="o_balanco_patrimonial">
+						<title>O balanço patrimonial e o demonstrativo do resultado do exercício (DRE)</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T9" identifierref="indicadores_financeiros">
+						<title>Indicadores financeiros</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A3_T10" identifierref="referencias_bibliograficas_3_3_10">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M3_A4" identifierref="a_gestao_de_marketing">
+					<title>Aula 04 - A gestão de marketing</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M3_A4_T1" identifierref="estrategias_de_preco">
+						<title>Estratégias de preço</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A4_T2" identifierref="variaveis_internas_e_externas">
+						<title>Variáveis internas e externas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A4_T3" identifierref="variaveis_internas">
+						<title>Variáveis internas – Os 4P’s do marketing</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A4_T4" identifierref="variaveis_externas">
+						<title>Variáveis externas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A4_T5" identifierref="analise_swot">
+						<title>Análise SWOT</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A4_T6" identifierref="referencias_bibliograficas_3_4_6">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+				<item identifier="NCU_M3_A5" identifierref="pontos_de_gerenciamento_logistico_e_operacional">
+					<title>Aula 05 - Conceito e principais pontos do gerenciamento logístico e operacional</title>
+					<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					<item identifier="NCU_M3_A5_T1" identifierref="a_administracao_de_materiais">
+						<title>A administração de materiais</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A5_T2" identifierref="producao_e_movimentacao_de_materiais">
+						<title>Administração da produção e movimentação de materiais</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A5_T3" identifierref="entrega_e_distribuicao_fisica">
+						<title>Entrega e distribuição física</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+					<item identifier="NCU_M3_A5_T4" identifierref="referencias_bibliograficas_3_5_4">
+						<title>Referências Bibliográficas</title>
+						<adlcp:prerequisites xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" />
+					</item>
+				</item>
+			</item>
 		</organization>
 	</organizations>
 	<resources>
+
 		<resource identifier="apresentacao" type="webcontent" adlcp:scormtype="sco" href="_paginas/apresentacao.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
 			<file href="_paginas/apresentacao.html" />
 		</resource>
@@ -131,6 +379,195 @@
 		</resource>
 		<resource identifier="referencias_bibliograficas_7" type="webcontent" adlcp:scormtype="sco" href="_paginas/m1_a3_t7.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
 			<file href="_paginas/m1_a3_t7.html" />
+		</resource>
+		<!-- MODULO 02 -->
+		<resource identifier="planejando_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2.html" />
+		</resource>
+		<resource identifier="a_questao_do_planejamento" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a1.html" />
+		</resource>
+		<resource identifier="a_ideia_de_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a2.html" />
+		</resource>
+		<resource identifier="identificando_uma_boa_ideia_de_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a2_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a2_t1.html" />
+		</resource>
+		<resource identifier="fichas_de_ideias_de_negocios" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a2_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a2_t2.html" />
+		</resource>
+
+		<resource identifier="modelos_de_negocios" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3.html" />
+		</resource>
+		<resource identifier="preenchimento_do_quadro_do_metodo_de_canvas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3_t1.html" />
+		</resource>
+		<resource identifier="teste_com_prototipo" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3_t2.html" />
+		</resource>
+		<resource identifier="as_start_ups" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3_t3.html" />
+		</resource>
+		<resource identifier="planejamento_abertura_start_up" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3_t4.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_2_3_5" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a3_t5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a3_t5.html" />
+		</resource>
+
+		<resource identifier="plano_de_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a4.html" />
+		</resource>
+		<resource identifier="variacoes_palno_de_negocios" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a4_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a4_t1.html" />
+		</resource>
+		<resource identifier="onde_conseguir_capital_para_comecar_seu_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a4_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a4_t2.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_2_4_3" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a4_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a4_t3.html" />
+		</resource>
+
+		<resource identifier="a_estrutura_do_plano_de_negocios" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a5.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_2_5_1" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a5_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a5_t1.html" />
+		</resource>
+
+		<resource identifier="elaboracao_do_plano_de_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a6.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a6.html" />
+		</resource>
+		<resource identifier="formalizando_o_negocio" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a6_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a6_t1.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_2_6_1" type="webcontent" adlcp:scormtype="sco" href="_paginas/m2_a6_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m2_a6_t2.html" />
+		</resource>
+		<!-- MODULO 03 -->
+		<resource identifier="gestao_organizacional" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3.html" />
+		</resource>
+		<resource identifier="principais_elementos_da_gestao_organizacional" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1.html" />
+		</resource>
+		<resource identifier="fluxo_de_caixa_e_outros_controles_financeiros" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t1.html" />
+		</resource>
+		<resource identifier="custos_despesas_e_investimentos" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t2.html" />
+		</resource>
+		<resource identifier="vendas_e_satisfacao_do_cliente" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t3.html" />
+		</resource>
+		<resource identifier="logistica_e_operacoes" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t4.html" />
+		</resource>
+		<resource identifier="fornecedores_e_compras" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t5.html" />
+		</resource>
+		<resource identifier="estoques" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t6.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t6.html" />
+		</resource>
+		<resource identifier="colaboradores" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t7.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t7.html" />
+		</resource>
+		<resource identifier="estrategia_e_relacionamento_com_outros_publicos_externos" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t8.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t8.html" />
+		</resource>
+		<resource identifier="principais_elementos_da_gestao_organizacional" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t9.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t9.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_3_1_10" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a1_t10.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a1_t10.html" />
+		</resource>
+		<resource identifier="principais_controles_administrativos_da_empresa" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2.html" />
+		</resource>
+		<resource identifier="sistemas_tecnologicos_de_apoio_aos_controles" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2_t1.html" />
+		</resource>
+		<resource identifier="principais_controles_administrativos" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2_t2.html" />
+		</resource>
+		<resource identifier="controle_das_vendas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2_t3.html" />
+		</resource>
+		<resource identifier="controle_das_compras" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2_t4.html" />
+		</resource>
+		<resource identifier="controle_de_estoques" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a2_t5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a2_t5.html" />
+		</resource>
+		<resource identifier="principais_controles_financeiros_da_empresa" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3.html" />
+		</resource>
+		<resource identifier="o_fluxo_de_caixa" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t1.html" />
+		</resource>
+		<resource identifier="o_controle_de_caixa" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t2.html" />
+		</resource>
+		<resource identifier="o_controle_de_bancos" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t3.html" />
+		</resource>
+		<resource identifier="controle_de_contas_a_receber_e_a_pagar" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t4.html" />
+		</resource>
+		<resource identifier="custos_e_despesas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t5.html" />
+		</resource>
+		<resource identifier="a_composicao_final_do_fluxo_de_caixa" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t6.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t6.html" />
+		</resource>
+		<resource identifier="formacao_de_precos_de_vendas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t7.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t7.html" />
+		</resource>
+		<resource identifier="o_balanco_patrimonial" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t8.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t8.html" />
+		</resource>
+		<resource identifier="indicadores_financeiros" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t9.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t9.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_3_3_10" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a3_t10.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a3_t10.html" />
+		</resource>
+		<resource identifier="a_gestao_de_marketing" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4.html" />
+		</resource>
+		<resource identifier="estrategias_de_preco" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t1.html" />
+		</resource>
+		<resource identifier="variaveis_internas_e_externas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t2.html" />
+		</resource>
+		<resource identifier="variaveis_internas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t3.html" />
+		</resource>
+		<resource identifier="variaveis_externas" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t4.html" />
+		</resource>
+		<resource identifier="analise_swot" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t5.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_3_4_6" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a4_t6.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a4_t6.html" />
+		</resource>
+		<resource identifier="pontos_de_gerenciamento_logistico_e_operacional" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a5.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a5.html" />
+		</resource>
+		<resource identifier="a_administracao_de_materiais" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a5_t1.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a5_t1.html" />
+		</resource>
+		<resource identifier="producao_e_movimentacao_de_materiais" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a5_t2.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a5_t2.html" />
+		</resource>
+		<resource identifier="entrega_e_distribuicao_fisica" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a5_t3.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a5_t3.html" />
+		</resource>
+		<resource identifier="referencias_bibliograficas_3_5_4" type="webcontent" adlcp:scormtype="sco" href="_paginas/m3_a5_t4.html" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2">
+			<file href="_paginas/m3_a5_t4.html" />
 		</resource>
 	</resources>
 </manifest>
